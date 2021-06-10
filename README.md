@@ -4,4 +4,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasad502&layout=compact&theme=radical)](https://github.com/Prasad502/github-readme-stats)
 
+![](https://visitor-badge.laobi.icu/badge?page_id=Prasad502.Prasad502)
+
 
