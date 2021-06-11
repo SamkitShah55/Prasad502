@@ -14,7 +14,7 @@ github linkedin instagram twitter
 
 ![Prasad502's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prasad502&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasad502&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasad502)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Prasad502.Prasad502)
 
