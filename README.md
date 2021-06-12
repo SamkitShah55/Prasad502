@@ -14,6 +14,6 @@ Skills: Java / Python / JS / HTML / CSS / Bootstrap / PHP / C / C++ / Android
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Prasad502&theme=radical)  
 
-![Profile views](https://gpvc.arturio.dev/Prasad502&theme=radical)  
+![Profile views](https://gpvc.arturio.dev/Prasad502)  
 
 
