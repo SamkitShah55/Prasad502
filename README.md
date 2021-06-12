@@ -8,7 +8,7 @@ Skills: Java / Python / JS / HTML / CSS / Bootstrap / PHP / C / C++ / Android
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Prasad502&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasad502&layout=compact&langs_count=8&theme=radical)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasad502&langs_count=8&theme=radical)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prasad502&show_icons=true&theme=radical)
 
