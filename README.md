@@ -6,11 +6,18 @@
 Skills: Java / Python / JS / HTML / CSS / Bootstrap / PHP / C / C++ / Android
 
 
-![Prasad502's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prasad502&show_icons=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Prasad502)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasad502&langs_count=8&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasad502)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prasad502&show_icons=true)  
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Prasad502.Prasad502)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Prasad502)  
+
+![GitHub metrics](https://metrics.lecoq.io/Prasad502)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Prasad502)  
+
+![Profile views](https://gpvc.arturio.dev/Prasad502)  
 
 
