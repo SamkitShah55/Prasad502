@@ -1,4 +1,4 @@
-## HI I AM PRASAD LABADE. STUDENT BY PROFESSION , STUDYING AT MIT-POLYTECHNIC,KOTHRUD.
+## HI I AM PRASAD LABADE. STUDENT BY PROFESSION.
 
 
 ### I am  Web/Desktop Application Developer. Check out my latest Web and Desktop Applications at my personal website linked in bio. 
