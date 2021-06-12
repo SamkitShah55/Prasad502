@@ -12,6 +12,8 @@ Skills: Java / Python / JS / HTML / CSS / Bootstrap / PHP / C / C++ / Android
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prasad502&show_icons=true)
 
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasad502&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Prasad502)  
 
 ![Profile views](https://gpvc.arturio.dev/Prasad502)  
