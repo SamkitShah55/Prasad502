@@ -10,11 +10,7 @@ Skills: Java / Python / JS / HTML / CSS / Bootstrap / PHP / C / C++ / Android
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasad502)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prasad502&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Prasad502)  
-
-![GitHub metrics](https://metrics.lecoq.io/Prasad502)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prasad502&show_icons=true)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Prasad502)  
 
