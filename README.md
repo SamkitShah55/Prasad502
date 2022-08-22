@@ -63,7 +63,7 @@
 
 <a href = "https://www.linkedin.com/in/prasad-labade-a55122218/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/prasad_labade"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/_prasad_9952/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/_prasad._.9952/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UC-7FVTqGoFPMvRA_iAi21Kg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 
